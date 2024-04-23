@@ -14,15 +14,15 @@ I am a passionate individual with a strong background in web development, and il
   - IES Sanje. 2019-2021
 
 **🔭Work Experience:**
-- Fish Market Salesperson
+- **Fish Market Salesperson**
   - Benito Fish Market; family business volunteering. 2017-x
-- Art and Illustration Sales
+- **Art and Illustration Sales**
   - Online and in-person commissions. 2020-x
-- Art Fair Salesperson
+- **Art Fair Salesperson**
   - Murcia Art Fairs: EA, Plaza Circular, Santa Eulalia. 2021-x
-- Internship at PixelBlack
+- **Internship at PixelBlack**
   - Remote, character design and implementation in Unity. 2022
-- Internship with Daniel Acuña
+- **Internship with Daniel Acuña**
   - Online, character and comic cover design. 2023
 
 **⚡Other Skills:**
@@ -30,9 +30,12 @@ I am a passionate individual with a strong background in web development, and il
   - Spanish, Native.
   - English B2, Cambridge Official. 2018
   - French A1, Unofficial (from high school studies). 2018
+    
 - **Software:**
   - Adobe Suite, Microsoft Suite, Unity, Godot, Blender, Krita, Clip Studio Paint, SAI, Eclipse, Visual Studio Code, Java, C#, DBeaver, datamodeler, MySQL Workbench.
+    
 - **Currently studying DAW (Web Application Development).**
+
 
 **😄Contact:**
 - Phone: +34 633 09 37 87
