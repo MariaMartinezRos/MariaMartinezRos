@@ -40,3 +40,6 @@ I am a passionate individual with a strong background in web development, and il
 **😄Contact:**
 - Phone: +34 633 09 37 87
 - Email: mariaamartinezros@gmail.com
+- LinkedIn: www.linkedin.com/in/maria-martinez-ros
+
+
