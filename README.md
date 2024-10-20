@@ -25,7 +25,7 @@
   Online, character and comic cover design, 2023
 
 **Software:**
-- Adobe Suite, Microsoft Suite, Unity, Godot, Blender, Krita, Clip Studio Paint, SAI, Eclipse, Visual Studio Code, Java, Python, HTML, JS, JSON, CSS, DBeaver, datamodeler, MySQL Workbench
+- Adobe Suite, Microsoft Suite, Unity, Blender, Krita, Clip Studio Paint, SAI, Eclipse, Visual Studio Code, PHPStorm, Herd, Java, Python, HTML, JS, JSON, CSS, PHP, XML, DBeaver, datamodeler, MySQL Workbench
 
     
 
