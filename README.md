@@ -29,7 +29,11 @@
 **Software:**
 - Adobe Suite, Microsoft Suite, Unity, Blender, Krita, Clip Studio Paint, SAI, Eclipse, Visual Studio Code, PHPStorm, Herd, Java, Python, HTML, JS, JSON, CSS, PHP, XML, DBeaver, datamodeler, MySQL Workbench
 
-    
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaMartinezRos&layout=compact)
+
+
 
 
 
