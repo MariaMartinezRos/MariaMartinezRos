@@ -24,7 +24,7 @@
 - **Art and Illustration Sales**  
   Online and in-person commissions, 2020 - Present
 - **Fish Market Salesperson**  
-  _Benito Fish Market_, family business volunteering, 2017 - Present
+  _Pescaderías Benito_, family business volunteering, 2017 - Present
 
 **Software:**
 - Adobe Suite, Microsoft Suite, Unity, Blender, Krita, Clip Studio Paint, SAI, Eclipse, Visual Studio Code, PHPStorm, Herd, Java, Python, HTML, JS, JSON, CSS, PHP, XML, DBeaver, datamodeler, MySQL Workbench
