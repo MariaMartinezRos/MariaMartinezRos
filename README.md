@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&color=FF69B4&size=20&lines=ʕっ•ᴥ•ʔっ)](https://git.io/typing-svg)
+
 ### About Me:
 
 **Education:**
@@ -31,7 +34,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaMartinezRos&layout=compact)
 
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&color=40E0D0&size=20&lines=υ´•+ﻌ+•`υ)](https://git.io/typing-svg)
