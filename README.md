@@ -30,7 +30,7 @@
   _Pescaderías Benito_, family business volunteering, 2017 - Present
 
 **Software:**
-- Adobe Suite, Microsoft Suite, Unity, Blender, Krita, Clip Studio Paint, SAI, Eclipse, Visual Studio Code, PHPStorm, Herd, Java, Python, HTML, JS, JSON, CSS, PHP, XML, DBeaver, datamodeler, MySQL Workbench
+- Adobe Suite, Microsoft Suite, Unity, Blender, Phaser, Krita, Clip Studio Paint, SAI, Eclipse, Visual Studio Code, SublimeText, PHPStorm, Herd, Tryton ERP, Java, Python, HTML, JS, CSS, PHP, XML, DBeaver, datamodeler, MySQL Workbench 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaMartinezRos&layout=compact)
 
