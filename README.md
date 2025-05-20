@@ -1,37 +1,41 @@
+## *͛ ͙ About Me*͛ ͙ 
+I’m a **web designer**. My expertise ranges from programming websites from scratch to designing every element and detail. 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&color=FF69B4&size=20&lines=ʕっ•ᴥ•ʔっ)](https://git.io/typing-svg)
+Additionally, I have experience as a **Tryton** developer and as a **full-stack** developer.
 
-### About Me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&color=8BDDBB&size=20&lines=ʕっ•ᴥ•ʔっ)](https://git.io/typing-svg)
 
-**Education:**
-- **Higher Education in Web Application Development**  
-  _Currently studying_ — **Ingeniero de la Cierva**, 2023 - Present
-- **Cybersecurity Course**  
-  Online — **INCIBE**, 2022 - 2023
-- **Unity (C#) Training Course**  
-  Online — **SEF**, 2021 - 2022
-- **Illustration Degree**  
-  **Escuela de Arte**, 2021 - 2023
-- **Scientific High School**  
-  **IES Sanje**, 2019 - 2021
+## *͛ ͙ My (mostly relevant) tools & tech*͛ ͙ 
 
-**Work Experience:**
-- **Internship with Datalife**  
-  Management software with _Tryton ERP_, 2024 - Present
-- **Internship with Daniel Acuña**  
-  Online, character and comic cover design, 2023
-- **Internship at PixelBlack**  
-  Remote, character design and implementation in Unity, 2022
-- **Art Fair Salesperson**  
-  _Murcia Art Fairs_: EA, Plaza Circular, Santa Eulalia, 2021 - 2023
-- **Art and Illustration Sales**  
-  Online and in-person commissions, 2020 - Present
-- **Fish Market Salesperson**  
-  _Pescaderías Benito_, family business volunteering, 2017 - Present
+### ⋆͛*Languages⋆͛*
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-**Software:**
-- Adobe Suite, Microsoft Suite, Unity, Blender, Phaser, Krita, Clip Studio Paint, SAI, Eclipse, Visual Studio Code, SublimeText, PHPStorm, Herd, Tryton ERP, Java, Python, HTML, JS, CSS, PHP, XML, DBeaver, datamodeler, MySQL Workbench 
+### ⋆͛*Frameworks & Libraries⋆͛* 
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+
+### ⋆͛*Databases⋆͛* 
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
+
+### ⋆͛*͛Design & Creative Tools⋆͛* 
+[![Photoshop](https://skillicons.dev/icons?i=photoshop)](https://www.adobe.com/products/photoshop.html)
+[![Illustrator](https://skillicons.dev/icons?i=illustrator)](https://www.adobe.com/products/illustrator.html)
+[![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
+
+### ⋆͛*͛IDEs & Dev Tools⋆͛*
+[![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
+[![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![PHPStorm](https://skillicons.dev/icons?i=phpstorm)](https://www.jetbrains.com/phpstorm/)
+[![Sublime Text](https://skillicons.dev/icons?i=sublime)](https://www.sublimetext.com/)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaMartinezRos&layout=compact)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&color=40E0D0&size=20&lines=υ´•+ﻌ+•`υ)](https://git.io/typing-svg)
